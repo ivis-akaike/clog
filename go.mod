@@ -1,4 +1,4 @@
-module unknwon.dev/clog/v2
+module github.com/NII-DG/clog
 
 go 1.11
 
